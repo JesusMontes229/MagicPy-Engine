@@ -1,2 +1,2 @@
-# Pygame_Custom_Engine
-This Is my custom engine to help me make games using the pygame import for python, if anyone comes across this, feel free to use it, Ideally I document it as well, but well see how well it holds up
+# MagicPyEngine
+MagicPyEngine is a custom game engine API that extends the Pygame API by adding game development features. This is a light and beginner-friendly framework to help fellow game developers like myself develop games without being overwhelmed by other game engines and their intimidating IDEs. This was developed in response to my first failed game jam, in which I couldn't finish the game because my Pygame code became spaghetti code. Hopefully, this beginner framework will help both me and others develop game jam projects faster and on time. 
